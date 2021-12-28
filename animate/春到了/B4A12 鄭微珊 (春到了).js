@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"春到了_HTML5 Canvas_atlas_1", frames: [[0,0,1055,659]]}
+		{name:"B4A12 鄭微珊 _春到了__atlas_1", frames: [[0,0,1055,659]]}
 ];
 
 
@@ -28,7 +28,7 @@ lib.ssMetadata = [
 
 
 (lib.春到了 = function() {
-	this.initialize(ss["春到了_HTML5 Canvas_atlas_1"]);
+	this.initialize(ss["B4A12 鄭微珊 _春到了__atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -397,7 +397,7 @@ p.nominalBounds = new cjs.Rectangle(-147.5,-156,365.4,380.2);
 
 
 // stage content:
-(lib.春到了_HTML5Canvas = function(mode,startPosition,loop,reversed) {
+(lib.B4A12鄭微珊春到了 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -433,7 +433,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/春到了_HTML5 Canvas_atlas_1.png", id:"春到了_HTML5 Canvas_atlas_1"}
+		{src:"images/B4A12 鄭微珊 _春到了__atlas_1.png", id:"B4A12 鄭微珊 _春到了__atlas_1"}
 	],
 	preloads: []
 };
